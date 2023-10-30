@@ -1,0 +1,19 @@
+{
+  "usuario": {
+    "-NhYCuS_a7UTHb8q4cNf": {
+      "DNI": "42878751",
+      "apellido": "Parra",
+      "correoelectronico": "juanigparra00@gmail.com",
+      "id": "-NhYCuS_a7UTHb8q4cNf",
+      "nombre": "Juan Ignacio",
+      "patente": "MRO442",
+      "rol": true,
+      "telefono": "01138758926",
+      "reservas": {
+        "cochera": "1",
+        "fecha": "12-12-2019",
+        "estado": "Expirada"
+      }
+    }
+  }
+}
